@@ -20,11 +20,7 @@ Welcome to JumperGame, an endless runner game where you venture through a mystic
 
 ## Demo Video 🎥
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="READMEAssets\JumperGame demo.mp4" type="video/mp4">
-  </video>
-</figure>
+![Alt Text](https://media.githubusercontent.com/media/yinonh/JumperGame/master/READMEAssets/demo.gif)
 
 ## Getting Started 🚀
 
